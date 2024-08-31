@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplicationDolly
+build_property.RootNamespace = WebApplicationDolly
+build_property.ProjectDir = C:\Users\igorl\RiderProjects\DollyPuppet\WebApplicationDolly\WebApplicationDolly\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\igorl\RiderProjects\DollyPuppet\WebApplicationDolly\WebApplicationDolly
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Clothes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Clothes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Clothes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Clothes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Clothes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Color/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Color/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Color/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Dolly/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9sbHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Dolly/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9sbHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Dolly/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9sbHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Dolly/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9sbHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Dolly/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9sbHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/igorl/RiderProjects/DollyPuppet/WebApplicationDolly/WebApplicationDolly/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jsba6txgii
