@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <Folder Include="Controllers\Dolly\" />
+      <Folder Include="wwwroot\storage\clothes\" />
     </ItemGroup>
 
 </Project>
