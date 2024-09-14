@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationDolly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300c652768aaa2d1ea8e895b4e4a49b517b8a4f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd95305b21d4e0717177527281d5308a4b1255bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationDolly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationDolly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
